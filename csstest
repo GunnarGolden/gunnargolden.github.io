@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Homepage</title>
+    </head>
+    <body>
+  
+           <img src="gunnargolden.github.io/csc106_banner.jpg" alt="Website Banner">
+        <br>
+        <h1> Hello World! </h1>
+        <br>
+        <p> Greetings, this a portfolio page I am in the process of creating for my Computer Science class. </p>
+           <a href="https://www.uri.edu/"> URI Website </a>
+           <table>
+                <tbody>
+                    <tr>
+                    <td><a href="https://gunnargolden.github.io/index"><img src="gunnargolden.github.io/pasted image 0.png"></a></td>
+                    <td><a href="https://gunnargolden.github.io/javascripts"><img src="gunnargolden.github.io/pasted image 1.png"></a></td>
+                    <td><a href="https://gunnargolden.github.io/about"><img src="gunnargolden.github.io/pasted image 2.png"></a></td>
+                    </tr>
+               </tbody>
+        </table>
+    </body>
+</html>
